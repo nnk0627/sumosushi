@@ -1,0 +1,17 @@
+[
+    {
+        "name": "sushi",
+        "price": "1900",
+        "profile": "photo\/img5.jpeg"
+    },
+    {
+        "name": "sushi",
+        "price": "1236",
+        "profile": "photo\/img9.jpg"
+    },
+    {
+        "name": "Sashimi",
+        "price": "9000",
+        "profile": "photo\/img6.jpg"
+    }
+]
